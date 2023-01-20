@@ -9,7 +9,7 @@ Git URL - https://github.com/
 	d. Personal access tokens - tonens classic
 	e. generate new token
 	f. Note - (Note can't be blank)
-	g. token generated like (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)
+	g. token generated like (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)
 	h. copy token keep in safe place
 4. Go to your local computer any drive like (c:,d:,e:) 
 5. Create New folder (Any name)
@@ -34,6 +34,6 @@ Git URL - https://github.com/
 			
 			$git push https://amityatharth22@github.com/amityatharth/first-repository.git (this url use only for first time)
 			
-			use above Token - (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)
+			use above Token - (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)
 			
 			
